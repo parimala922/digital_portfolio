@@ -96,8 +96,8 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="propic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Ms.R.T.RESHMA HASHMI</h1>
-            <p>ASSISTANT PROFESSOR</p>
+            <h1>S.PARIMALA</h1>
+            <p>STUDENT</p>
         </div>
     </header>
 
@@ -115,14 +115,14 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>A seasoned Assistant Professor of Computer Science, well-versed in the digital realms. On the lookout for an Assistant Professor role where I can harness my teaching prowess, research acumen, and programming expertise to nurture the next generation of computer scientists and enrich the academic landscape.</p>
+            <p>Hi, Myself Parimala.S, a BCA student at Dr. MGR Janaki College of Arts & Science for Women. I'm passionate about the IT field and eager to apply what I've learned through my course and projects. I have developed skills in HTML, CSS , JavaScript, Python, C, C++ and I'm excited to continue growing and learning. .</p>
         </div>
     </section>
 
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>University of Madras - M.Sc.IT</p>
+            <p>Pursuing BCA - 2nd Year at Dr. MGR Janaki College of Arts and Science for Women</p>
             
             
         </div>
@@ -132,12 +132,12 @@
         <div class="section-content">
             <h2>Skills</h2>
             <ul>
-                <li>JAVA</li>
-                <li>RDBMS</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>C</li>
                 <li>C++</li>
-                <li>WEB DESIGNING</li>
-                <li>ADNROID</li>
-                <li>R PROGRAMMING<li>
+                <li>JAVASCRIPT</li>
+                <li>MS OFFICE<li>
                     
             </ul>
         </div>
@@ -168,7 +168,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 RESHMA</p>
+        <p>&copy; 2025 PARIMALA</p>
     </footer>
 
     <script>
